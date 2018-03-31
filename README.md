@@ -1,6 +1,6 @@
 # My Inventory
 An app for adding products for sale and save the information into database
-you can add data edite it , remove it from data base 
+you can add data edite it , remove it from DataBase 
 
 # Pics 
 
