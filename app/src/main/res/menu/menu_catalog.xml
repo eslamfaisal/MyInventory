@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.eslamfaisal.myinventory.CatalogActivity">
+    <item
+        android:id="@+id/action_add_dummy_data"
+        android:title="Insert Dummy Data"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete_all_items"
+        android:title="delete all entries"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Clothes Inventory</string>
+    <string name="action_settings">Settings</string>
+    <string name="delete_all_items">Delete all items?</string>
+    <string name="action_continue">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="updated_item">"Product updated"</string>
+    <string name="editor_activity_title_add_item">Add product</string>
+    <string name="editor_activity_title_edit_product">Edit product</string>
+    <string name="email_subject">Order</string>
+    <string name="toast_require_name">Add product name</string>
+    <string name="toast_require_price">Add price</string>
+    <string name="toast_required_image">Image required</string>
+    <string name="editor_insert_failed">Product insert failed</string>
+    <string name="add_product">Add Product</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+    <string name="delete_message">Do you want to delete?</string>
+    <string name="action_delete">Discard</string>
+    <string name="keep_editing">Cancel</string>
+    <string name="editor_delete_item_failed">Error with product deleting</string>
+    <string name="editor_delete_item_successful">Product deleted</string>
+    <string name="decrement_toast">Minimum quantity = 0</string>
+    <string name="increment_toast">Maximum quantity = 100</string>
+    <string name="email_message">Hello, I\'m eslam faisal I would like to order following product :</string>
+    <string name="no_products">There Is No Products have been added, tap the button for add </string>
+    <string name="upload_image">Upload Image</string>
+    <string name="name_text_in_edit_activity">Name</string>
+    <string name="product_name_in_edit_activity">Product Name</string>
+    <string name="price_in_edit_activity">Price</string>
+    <string name="product_price_in_edit_activity">Product Price</string>
+    <string name="quantity_in_edit_activity">Quantity</string>
+    <string name="min">-</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+    <string name="bt_order_text">Order</string>
+    <string name="bt_save_text">save</string>
+    <string name="in_stock_in_list_item">in stock</string>
+    <string name="price_in_list_item">price</string>
+    <string name="sale_text_in_list_item">Sale</string>
+
+</resources>
