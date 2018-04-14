@@ -94,7 +94,7 @@ public class EditActivity extends AppCompatActivity implements LoaderManager.Loa
         uploadButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                trySelector();
+              //  trySelector();
                 productHasChanged = true;
             }
         });
